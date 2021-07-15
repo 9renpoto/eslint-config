@@ -12,6 +12,6 @@
     "@types/styled-components": "5.1.11",
     "linaria": "2.1.0",
     "styled-components": "5.3.0",
-    "styled-icons": "9.5.0"
+    "styled-icons": "10.35.0"
   }
 }
